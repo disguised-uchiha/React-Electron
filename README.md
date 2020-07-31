@@ -15,3 +15,5 @@ This will create a build folder.
 This will add your shareable code between react and electron.
 3. run ```npm run package```
 This will create a dist folder where you can find the .exe file for your React-Electron app.
+
+Helpful resource: [How to make a React-Electron app](https://medium.com/@johndyer24/building-a-production-electron-create-react-app-application-with-shared-code-using-electron-builder-c1f70f0e2649) 
