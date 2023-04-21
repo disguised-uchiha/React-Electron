@@ -5,7 +5,7 @@
   "productName": "TodoReact app",
   "main": "electron/main.js",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "classname": "0.0.0",
     "classnames": "^2.2.6",
     "react": "^16.7.0",
